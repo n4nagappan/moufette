@@ -2,13 +2,13 @@
 
 # Moufette
 
-Capture feedback in one organized place to inform your product decisions. Let users help you decdie, **persevere** or **pivot**!
+Capture feedback in one organized place to inform your product decisions. Let users help you decide, **persevere** or **pivot**!
 
 ## How does it work?
 
 Moufette is built of 2 parts:
 1. A fully customizable embedable JS widget, to collect user feedback with screenshots, also allows your users to vote on upcomoing features
-2. Dashboard to control the widget, custumize it and review feedbacks and votes.
+2. Dashboard to control the widget, customize it and review feedbacks and votes.
 
 
 <p align="center">
@@ -17,7 +17,7 @@ Moufette is built of 2 parts:
 
 ## Quick start
 
-1 click Heroku deploy:
+1 Click Heroku deploy:
 
 <a href="https://heroku.com/deploy?template=https://github.com/moufette-tools/moufette"><img src="https://www.herokucdn.com/deploy/button.svg" width="250px" /></a>
 
